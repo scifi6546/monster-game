@@ -1,0 +1,22 @@
+{
+  "name": "monster-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scifi6546/monster-game.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scifi6546/monster-game/issues"
+  },
+  "homepage": "https://github.com/scifi6546/monster-game#readme",
+  "devDependencies": {
+    "phaser": "^3.15.1"
+  }
+}
